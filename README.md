@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏐 Beach Tennis MCP Server
 
 Servidor MCP simplificado para consultar disponibilidade de quadras de Beach Tennis da Villa Park Beach Sports.
@@ -96,3 +97,6 @@ ACADEMY_URL=https://letzplay.me/villa-parkbeach/location
 ✅ **Configuração flexível via variáveis de ambiente**  
 ✅ **Sem limitações de resultados**  
 ✅ **Pronto para produção**
+=======
+# bt-mcp
+>>>>>>> 8569c18cd0eff5dd8b02f5b66c7b23cccbd17cd5
